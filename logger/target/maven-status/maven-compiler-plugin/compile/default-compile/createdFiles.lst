@@ -1,0 +1,12 @@
+Configuration.class
+group\musicians\Pianist.class
+Audition.class
+group\musicians\Violinist.class
+group\musicians\Guitarist.class
+group\musicians\Musician.class
+group\musicians\Trumpeter.class
+group\listener\Listener.class
+Main.class
+aspects\XMLLogging.class
+group\musicians\Drummer.class
+aspects\AnnotationLogging.class
